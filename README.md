@@ -6,4 +6,4 @@ Founded under the Colonial flag during the 44th War for the Liberation of Mesea 
 
 _"WARDENES EUNT DOMUS"_
 
-(Join the discord!)[https://discord.gg/6UzjHJWdJN]
+[Join the discord!](https://discord.gg/6UzjHJWdJN)
