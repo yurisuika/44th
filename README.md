@@ -6,6 +6,4 @@ Founded under the Colonial flag during the 44th War for the Liberation of Mesea 
 
 _"WARDENES EUNT DOMUS"_
 
-http://44th.cc
-
-Send out for recruits at https://discord.gg/6UzjHJWdJN today!
+(Join the discord!)[https://discord.gg/6UzjHJWdJN]
