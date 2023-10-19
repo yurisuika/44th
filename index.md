@@ -12,6 +12,7 @@ actions:
   - label: "Join the 44th Discord!"
     icon: discord
     url: "https://discord.gg/6UzjHJWdJN"
+actions:
   - label: "Join the 501st Discord!"
     icon: discord
     url: "https://discord.gg/HpAmKBWwav"

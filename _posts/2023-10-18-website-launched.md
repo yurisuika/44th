@@ -3,14 +3,14 @@ title: "Website Launched"
 excerpt: "After founding the regiment 4 years ago, filing the regiment 2 years ago, and creating the Discord server 1 year ago, we now have a website!"
 last_modified_at: 2023-10-18T12:00:00-07:00
 categories:
-  - 44th
+  - Regiment
 tags:
   - 44th
 ---
 
 It has been a long time coming, but the website is here! A few weeks ago the domain was registered to simply redirect to the Discord invite, but we now actually have a site up and running.
 
-The [Discord redirect](http://join.44th.cc) is still around to run on the `join` subdomain, but you can also find links to it and the [501st Discord](http://501st.44th.cc) on the Home and About pages.
+The [Discord redirect](http://join.44th.cc) is still around to run on the `join` subdomain, but you can also find links to it on the Home and About pages.
 
 ## A Brief History
 
