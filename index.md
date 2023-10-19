@@ -4,6 +4,7 @@ paginate: true
 alt_title: "44th Velian Legionnaires"
 sub_title: "WARDENES EUNT DOMUS"
 image: /assets/images/501st+44th.jpg
+paginate: true
 introduction: |
   You've come to the home of the finest Colonial regiment, the 44th Velian Legionnaires!
 
