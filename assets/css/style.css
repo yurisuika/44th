@@ -1,9 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-
-.intro-actions {
-  display: flex !important;
-  gap: 1rem !important;
-}
