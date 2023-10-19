@@ -35,5 +35,5 @@ These are the members of the 44th!
 - Cpl pyr0
 - Cpl Taejun
 - LCpl iNFESTED
-- LCpl SlvrBulletNChil
 - LCpl Simple Simon
+- LCpl SlvrBulletNChil
