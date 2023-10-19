@@ -12,4 +12,4 @@ search_full_content: true
 
 author:
   name: 44th Velian Legionnaires
-  picture: /assets/images/44th.png
+  # picture: /assets/images/44th.png
