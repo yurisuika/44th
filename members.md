@@ -1,6 +1,6 @@
 ---
 title: "Members"
-layout: default
+layout: post
 ---
 
 These are the members of the 44th!
