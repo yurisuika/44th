@@ -6,7 +6,6 @@ categories:
   - 44th
 tags:
   - 44th
-  - 501st
 ---
 
 It has been a long time coming, but the website is here! A few weeks ago the domain was registered to simply redirect to the Discord invite, but we now actually have a site up and running.
