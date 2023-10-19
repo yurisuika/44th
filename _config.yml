@@ -4,6 +4,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: 44th Velian Legionnaires
-description: You've come to the home of the finest Colonial regiment, the 44th Velian Legionnaires!
+description: WARDENES EUNT DOMUS
 url: https://44th.cc
 logo: "/assets/images/44th.png"
