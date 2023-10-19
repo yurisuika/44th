@@ -5,16 +5,16 @@ layout: post
 
 These are the members of the 44th!
 
-- #### General Officer
+- General Officer
   - FM yurisuika
-- #### Senior Officer
-- #### Junior Officer
+- Senior Officer
+- Junior Officer
   - 2Lt Lox
   - Ocdt AlysoFox
   - Ocdt Don177™
   - Ocdt GeekyPanda404
   - Ocdt OberstTheWurst
-- #### Officer
+- Officer
   - WO1 Gandalf the green
   - SSgt Kellogg's Corn Flakes
   - SSgt mal_wilson
@@ -22,7 +22,7 @@ These are the members of the 44th!
   - Sgt Demon
   - Sgt potlandblazer
   - Sgt sup9012
-- #### Enlistee
+- Enlistee
   - Cpl Acidsnow
   - Cpl DeadlyAllDay
   - Cpl DorklyMoogle
