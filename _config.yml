@@ -6,6 +6,6 @@ plugins:
 title: 44th Velian Legionnaires
 description: WARDENES EUNT DOMUS
 url: https://44th.cc
-logo: "/assets/images/44th.png"
+logo: "/assets/icons/44th-dark.svg"
 search: true
 search_full_content: true
