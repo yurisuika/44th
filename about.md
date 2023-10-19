@@ -1,6 +1,13 @@
 ---
 title: "About"
 layout: about
+actions:
+  - label: "Join the 44th Discord!"
+    icon: discord
+    url: "https://discord.gg/6UzjHJWdJN"
+  - label: "Join the 501st Discord!"
+    icon: discord
+    url: "https://discord.gg/HpAmKBWwav"
 ---
 
 You've come to the home of the finest Colonial regiment, the **44th Velian Legionnaires**!
