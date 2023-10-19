@@ -9,3 +9,7 @@ url: https://44th.cc
 logo: "/assets/icons/44th-dark.svg"
 search: true
 search_full_content: true
+
+author:
+  name: 44th Velian Legionnaires
+  picture: /assets/images/44th.png
