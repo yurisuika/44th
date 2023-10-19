@@ -2,6 +2,8 @@
 title: "Website Launched"
 excerpt: "After founding the regiment 4 years ago, filing the regiment 2 years ago, and creating the Discord server 1 year ago, we now have a website!"
 last_modified_at: 2023-10-18T12:00:00-07:00
+categories:
+  - 44th
 tags:
   - 44th
   - 501st

@@ -1,6 +1,8 @@
 ---
 title: "About"
 layout: about
+author_name: 44th Velian Legionnaires
+author_picture: /assets/images/44th.png
 ---
 
 You've come to the home of the finest Colonial regiment, the **44th Velian Legionnaires**!
