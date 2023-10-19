@@ -10,13 +10,15 @@ layout: default
       <div class="entry-content">
         {{ content }}
       </div>
+      <div class="links">
+        <a href="https://discord.gg/6UzjHJWdJN" class="btn">Join the 44th Discord!</a>
+        <a href="https://discord.gg/HpAmKBWwav" class="btn">Join the 501st Discord!</a>
+      </div>
       <aside class="entry-sidebar">
         {% include author %}
         {% if author_picture %}
           <img class="author-picture" src="{{ author_picture }}" alt="{{ author_name }}">
         {% endif %}
-        <a href="https://discord.gg/6UzjHJWdJN" class="btn">Join the 44th Discord!</a>
-        <a href="https://discord.gg/HpAmKBWwav" class="btn">Join the 501st Discord!</a>
       </aside>
     </div>
   </div>
