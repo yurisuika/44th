@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 
 .intro-actions {
-  display: flex;
-  gap: 1rem;
+  display: flex !important;
+  gap: 1rem !important;
 }
