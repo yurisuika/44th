@@ -10,7 +10,7 @@ tags:
   - 501st
 ---
 
-We've had a long standing friendship with the 510st since War 81, but today we are embarking on a mission to destroy all Wardens!
+We've had a long standing friendship with the 510st since War 80, but today we are embarking on a mission to destroy all Wardens!
 
 Together, with the outbreak of War 108 we are founding a joint naval yard to produce the new Conqueror class destroyers for the eastern fleet.
 
