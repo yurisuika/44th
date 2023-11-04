@@ -1,6 +1,6 @@
 ---
 title: "Membership"
-layout: post
+layout: membership
 ---
 
 We're a group that puts foremost comradery! We're all united in the cause of abolishing the existance of Wardens from the green lands of Mesea.
