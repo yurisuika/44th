@@ -1,6 +1,6 @@
 ---
-title: "A Fellowship Is Formed"
-excerpt: "Together with the 501st we are seeking to destroy the Wardens, perhaps once and forall!"
+title: "Destroyer Naval Yard"
+excerpt: "We are establishing a naval yard to produce the new Conqueror class destroyers!"
 last_modified_at: 2023-10-26T11:00:00-07:00
 categories:
   - Regiment
