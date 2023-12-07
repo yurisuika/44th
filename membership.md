@@ -2,7 +2,7 @@
 title: "Membership"
 layout: membership
 sub_title: "Joining Our Brotherhood"
-image: /assets/images/W107.jpg
+image: /assets/images/W108.jpg
 introduction: |
   With the 44th, you're not just another rank and file. We all work together in the cause of purging the Wardens from the green lands of Mesea!
 
