@@ -16,5 +16,5 @@ actions:
     url: "https://discord.gg/6UzjHJWdJN"
   - label: "Join the 501st Discord!"
     icon: discord
-    url: "https://discord.gg/HpAmKBWwav"
+    url: "https://discord.gg/qRw7r6rJWz"
 ---
